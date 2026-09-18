@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Inthusha
 
-### 💻 Computer Science Student | 🌐 Full-Stack Web Developer
+### 💻 CSE | 🌐 Full-Stack Web Developer
 
 I'm a Computer Science student passionate about **web development, building practical projects, and continuously learning new technologies.**
 
