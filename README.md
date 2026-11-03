@@ -29,11 +29,6 @@ I'm a Computer Science student passionate about **web development, building prac
 
 ---
 
-## 📚 Currently Learning
-
-🚀 **Full-Stack Web Development**
-
-
 * Building full-stack web applications
 
 ---
