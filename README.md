@@ -33,10 +33,7 @@ I'm a Computer Science student passionate about **web development, building prac
 
 🚀 **Full-Stack Web Development**
 
-* React.js
-* Node.js
-* Express.js
-* MongoDB
+
 * Building full-stack web applications
 
 ---
